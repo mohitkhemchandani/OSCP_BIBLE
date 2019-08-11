@@ -1,5 +1,6 @@
 # OSCP_BIBLE
-This is a bible for OSCP related stuff. It will include all the resources, writeups, bookmarks related to OSCP preparation and many more.
+This is a bible for OSCP related stuff. It will include all the resources, writeups, bookmarks related to OSCP preparation and many more. Gathered all the OSCP related bookmarks, resources and writeups and I added them in a single repo.
+
 ## Resources
 https://github.com/Elinpf/OSCP-survival-guide
 
