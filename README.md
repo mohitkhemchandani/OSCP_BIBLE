@@ -1,6 +1,7 @@
 # OSCP_BIBLE
 This is a collection of resources, scripts, bookmarks, writeups, notes, cheatsheets that will help you in OSCP Preparation as well as for general pentesting and learning. 
-If you feel like you can contribute in it. Please do that, I'll appreciate you.
+
+###If you feel like you can contribute in it. Please do that, I'll appreciate you.
 
 ## Resources
 https://github.com/Elinpf/OSCP-survival-guide
