@@ -8,7 +8,7 @@ https://github.com/anandkumar11u/OSCP-60days
 
 https://github.com/jepsonrob/InfoSec-Learning-
 
-https://github.com/adon90/
+https://github.com/adon90/pentest_compilation
 
 https://github.com/CyDefUnicorn/OSCP-Archives
 
