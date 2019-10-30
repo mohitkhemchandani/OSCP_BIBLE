@@ -1,46 +1,52 @@
 # OSCP_BIBLE
-This is a collection of resources, scripts, bookmarks, writeups, notes, cheatsheets that will help you in OSCP Preparation as well as for general pentesting and learning. 
+> This is a collection of resources, scripts, bookmarks, writeups, notes, cheatsheets that will help you in OSCP Preparation as well as for general pentesting and learning. 
 
 ### If you feel like you can contribute in it. Please do that, I'll appreciate you.
 
 ## Resources
-https://github.com/Elinpf/OSCP-survival-guide
+* [OSCP Survival Guide](https://github.com/Elinpf/OSCP-survival-guide)
 
-https://github.com/anandkumar11u/OSCP-60days
+* [OSCP-Prep](https://github.com/burntmybagel/OSCP-Prep)
 
-https://github.com/jepsonrob/InfoSec-Learning-
+* [OSCP 60-days](https://github.com/anandkumar11u/OSCP-60days)
 
-https://github.com/adon90/pentest_compilation
+* [OSCP-Complete-Guide](https://github.com/mohitkhemchandani/OSCP-Complete-Guide)
 
-https://github.com/CyDefUnicorn/OSCP-Archives
+* [OSCP-Prep](https://github.com/RustyShackleford221/OSCP-Prep)
 
-https://github.com/OlivierLaflamme/Cheatsheet-God
+* [Infosec Learning Materials](https://github.com/jepsonrob/InfoSec-Learning-Materials)
 
-https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets
+* [Pentest Compilation](https://github.com/adon90/pentest_compilation)
 
-https://github.com/slyth11907/Cheatsheets
+* [OSCP Archives](https://github.com/CyDefUnicorn/OSCP-Archives)
 
-https://github.com/mantvydasb/Offensive-Security-OSCP-Cheatsheets
+* [CheatSheet God](https://github.com/OlivierLaflamme/Cheatsheet-God)
 
-https://github.com/nairuzabulhul/RoadMap
+* [RedTeam-Pentest-CheatSheets](https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets)
 
-https://github.com/foobarto/redteam-notebook
+* [Cheatsheets](https://github.com/slyth11907/Cheatsheets)
 
-https://github.com/executeatwill/OSCP-Treasure-Cave
+* [OSCP Cheatsheets](https://github.com/mantvydasb/Offensive-Security-OSCP-Cheatsheets)
 
-https://github.com/0x4D31/awesome-oscp
+* [RoadMap](https://github.com/nairuzabulhul/RoadMap)
 
-https://github.com/Sturmrufer/OSCP-Survival-Guide_
+* [RedTeam Notebook](https://github.com/foobarto/redteam-notebook)
 
-https://github.com/burntmybagel/OSCP-Prep
+* [OSCP-Treasure-Cave](https://github.com/executeatwill/OSCP-Treasure-Cave)
 
-https://github.com/ferreirasc/oscp
+* [Awesome-OSCP](https://github.com/0x4D31/awesome-oscp)
 
-https://medium.com/@falconspy/useful-oscp-notes-commands-d71b5eda7b02
+* [OSCP Survival Guide](https://github.com/Sturmrufer/OSCP-Survival-Guide_)
 
-https://411hall.github.io/OSCP-Preparation/
+* [OSCP-Prep](https://github.com/burntmybagel/OSCP-Prep)
 
-https://www.reddit.com/r/AskNetsec/comments/7bvx28/oscp_and_privilege_escalation/
+* [OSCP](https://github.com/ferreirasc/oscp)
+
+* [Useful-OSCP-Command-Notes](https://medium.com/@falconspy/useful-oscp-notes-commands-d71b5eda7b02)
+
+* [OSCP-Preparation](https://411hall.github.io/OSCP-Preparation/)
+
+* [OSCP and Privilege Escalation](https://www.reddit.com/r/AskNetsec/comments/7bvx28/oscp_and_privilege_escalation/)
 
 ## Writeups
 
