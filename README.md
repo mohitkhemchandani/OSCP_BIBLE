@@ -48,6 +48,10 @@
 
 * [OSCP and Privilege Escalation](https://www.reddit.com/r/AskNetsec/comments/7bvx28/oscp_and_privilege_escalation/)
 
+ ### OSCP Like boxes:
+  * [OSCP like machines, Google Docs](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)
+  * [OSCP like VulnHub Machines](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms)
+
 ## Writeups
 
 https://medium.com/bugbountywriteup/5-tips-for-oscp-prep-76001cdf4f4f
