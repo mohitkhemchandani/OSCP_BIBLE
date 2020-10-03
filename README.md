@@ -48,11 +48,23 @@
 
 * [OSCP and Privilege Escalation](https://www.reddit.com/r/AskNetsec/comments/7bvx28/oscp_and_privilege_escalation/)
 
+* [OSCP](https://github.com/strongcourage/oscp)
+
  ### OSCP Like boxes:
   * [OSCP like machines, Google Docs](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)
   * [OSCP like VulnHub Machines](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms)
 
 ## Writeups
+
+https://medium.com/@akashgupta1496/my-oscp-journey-june-2020-d4512155d289
+
+https://medium.com/@ranakhalil101/my-oscp-journey-a-review-fa779b4339d9
+
+https://medium.com/@infosecsanyam/my-oscp-journey-30-03-2020-48444af3d786
+
+https://medium.com/@saadibabar/my-oscp-journey-and-a-guide-for-oscp-aspirants-e7e76cf588b8
+
+https://noobsec.net/oscp-journey/
 
 https://medium.com/bugbountywriteup/5-tips-for-oscp-prep-76001cdf4f4f
 
@@ -99,3 +111,5 @@ https://www.linkedin.com/pulse/penultimate-guide-defeat-oscp-corey-ball-oscp-cis
 https://teckk2.github.io/category/OSCP.html
 
 http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/
+
+https://alex-labs.com/my-oscp-journey/
